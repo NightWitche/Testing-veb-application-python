@@ -1,0 +1,25 @@
+2023-09-05 16:31:49 INFO _____________REST test 1 is starting_____________
+2023-09-05 16:31:49 INFO Getting list of posts...
+2023-09-05 16:31:51 INFO Success
+2023-09-05 16:31:51 INFO _____________REST test 2 is starting_____________
+2023-09-05 16:31:51 INFO Creating a new post...
+2023-09-05 16:31:52 INFO Success
+2023-09-05 16:31:52 INFO ====== WebDriver manager ======
+2023-09-05 16:31:54 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 16:31:54 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 16:31:54 INFO There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+2023-09-05 16:31:54 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 16:31:55 INFO WebDriver version 116.0.5845.96 selected
+2023-09-05 16:31:55 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-05 16:31:55 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-05 16:31:55 INFO Driver downloading response is 200
+2023-09-05 16:31:56 INFO Get LATEST chromedriver version for google-chrome
+2023-09-05 16:31:56 INFO Driver has been saved in cache [C:\Users\facem\.wdm\drivers\chromedriver\win64\116.0.5845.141]
+2023-09-05 16:32:01 INFO _____________UI test 1 is starting_____________
+2023-09-05 16:32:06 INFO _____________UI test 2 is starting_____________
+2023-09-05 16:32:10 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3D9101DB0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/3920a84b5f6560125a4c867eb457df4b/url
+2023-09-05 16:32:14 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3D9103FD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/3920a84b5f6560125a4c867eb457df4b/url
+2023-09-05 16:32:18 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3D9103D90>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/3920a84b5f6560125a4c867eb457df4b/url
+2023-09-05 16:32:23 INFO _____________UI test 3 is starting_____________
+2023-09-05 16:32:29 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3D8573280>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/3920a84b5f6560125a4c867eb457df4b/element
+2023-09-05 16:32:33 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3D8572FE0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/3920a84b5f6560125a4c867eb457df4b/element
